@@ -1,0 +1,7 @@
+[milestone4twotime]
+name=Milestone4TwoTime Linux - Repos
+baseurl=https://twotimemilestone4.github.io/milestone4twotime-repos/el10
+enabled=1
+gpgcheck=0
+repo_gpgcheck=0
+skip_if_unavailable=False
